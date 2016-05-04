@@ -3,11 +3,18 @@
 
 ## Introduction
 * [Meet Idris, a language that will change the way you think about programming](http://crufter.com/2015/01/01/idris-a-language-which-will-change-the-way-you-think-about-programming/).
+* [Idris (programming language)](https://en.wikipedia.org/wiki/Idris_(programming_language))
+* [Idris FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
+
 
 ## Concepts
 
 
-## Projects
+## Libraries
 * [Idris-dev](https://github.com/idris-lang/Idris-dev).
+* [IdrisNet2](https://github.com/SimonJF/IdrisNet2)
+* [idris-quickcheck](https://github.com/david-christiansen/idris-quickcheck)
+* [lightyear: Parser combinators for Idris](https://github.com/ziman/lightyear)
 
-## Librairies
+## Projects
+* [2048 in Idris](https://github.com/KesterTong/idris2048)
