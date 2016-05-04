@@ -6,6 +6,8 @@
 * [Idris (programming language)](https://en.wikipedia.org/wiki/Idris_(programming_language))
 * [Idris FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
 
+## Learning Idris
+* [Idris](http://www.idris-lang.org/)
 
 ## Concepts
 
