@@ -1,5 +1,8 @@
-
 # Idris
+Compilation of useful resources i've user to learn Idris (and specialy i'm intereseted in dependent types).
+
+[WIP] I will keep updating as i find new resources (My only rule is to understand the resource before putting it here).
+
 
 ## Introduction
 * [Meet Idris, a language that will change the way you think about programming](http://crufter.com/2015/01/01/idris-a-language-which-will-change-the-way-you-think-about-programming/).
@@ -8,9 +11,11 @@
 
 ## Learning Idris
 * [Idris](http://www.idris-lang.org/)
+* [The Idris Tutorial](http://docs.idris-lang.org/en/latest/tutorial)
 
 ## Concepts
 
+## Dependent Types
 
 ## Libraries
 * [Idris-dev](https://github.com/idris-lang/Idris-dev).
