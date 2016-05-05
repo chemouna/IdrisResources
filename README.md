@@ -27,6 +27,7 @@ Compilation of useful resources i've user to learn Idris (and specialy i'm inter
 * [IdrisNet2](https://github.com/SimonJF/IdrisNet2)
 * [idris-quickcheck](https://github.com/david-christiansen/idris-quickcheck)
 * [lightyear: Parser combinators for Idris](https://github.com/ziman/lightyear)
+* [List of Idris Libraries](https://github.com/idris-lang/Idris-dev/wiki/Libraries)
 
 ## Projects
 * [2048 in Idris](https://github.com/KesterTong/idris2048)
@@ -35,5 +36,9 @@ Compilation of useful resources i've user to learn Idris (and specialy i'm inter
 ## Find Help 
 * [Idris mailing list](https://groups.google.com/forum/#!forum/idris-lang)
 
+## Resources Collection
+* [External Resources](https://github.com/idris-lang/Idris-dev/wiki/External-Resources)
+
 ## Videos
 * [Idris course at ITU](https://edwinb.wordpress.com/2013/03/15/idris-course-at-itu-slides-and-video/)
+* [Edwin Brady - Type-driven development in Idris](https://vimeo.com/128466883)
