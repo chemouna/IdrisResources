@@ -8,6 +8,7 @@ Compilation of useful resources i've user to learn Idris (and specialy i'm inter
 * [Meet Idris, a language that will change the way you think about programming](http://crufter.com/2015/01/01/idris-a-language-which-will-change-the-way-you-think-about-programming/).
 * [Idris (programming language)](https://en.wikipedia.org/wiki/Idris_(programming_language))
 * [Idris FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
+* [Meet Idris, a language that will change the way you think about programming](http://crufter.com/@crufter/idris-a-language-that-will-change-the-way-you-think-about-programming)
 
 ## Learning Idris
 * [Idris](http://www.idris-lang.org/)
@@ -20,6 +21,9 @@ Compilation of useful resources i've user to learn Idris (and specialy i'm inter
 * [Idris for Haskellers](https://github.com/idris-lang/Idris-dev/wiki/Idris-for-Haskellers)
 
 ## Concepts
+
+## Type System 
+* [Type Classes in Idris](https://edwinb.wordpress.com/2011/11/09/type-classes-in-idris/)
 
 ## Dependent Types
 * [Getting Started With Dependent Types](http://koerbitz.me/posts/Getting-Started-With-Dependent-Types.html)
