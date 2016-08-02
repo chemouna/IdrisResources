@@ -17,6 +17,8 @@ Compilation of useful resources i've user to learn Idris (and specialy i'm inter
 * [Idris FAQ](https://idris.readthedocs.io/en/latest/faq/faq.html)
 * [Idris – first impressions](http://lambda.jstolarek.com/2013/12/idris-first-impressions/)
 * [Idris Repl](http://docs.idris-lang.org/en/latest/reference/repl.html)
+* [Let's Write a Monad in Idris!](http://writes.co.de/2014/10/24/lets_write_a_monad_in_idris/)
+* [Idris Types and Functions](http://docs.idris-lang.org/en/latest/tutorial/typesfuns.html)
 
 ## Idris for Haskellers 
 * [Idris for Haskellers](https://github.com/idris-lang/Idris-dev/wiki/Idris-for-Haskellers)
